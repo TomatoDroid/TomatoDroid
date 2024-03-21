@@ -1,9 +1,8 @@
-### Click there 👋123
-<p align="center">
-    <samp>
-        <a href="https://www.liuzhenvip.com/">click</a>
-    </samp>
-</p>
+### Hi!
+
+- 🌱 Growing
+
+### <a href="https://www.liuzhenvip.com/">click me</a>
 
 <!--
 **TomatoDroid/TomatoDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
