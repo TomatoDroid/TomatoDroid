@@ -2,7 +2,7 @@
 
 - 🌱 Growing
 
-### <a href="https://www.liuzhenvip.com/" target="_black" target="_blank">click me</a>
+### <a href="https://www.liuzhenvip.com/" target="_blank">click me</a>
 
 <!--
 **TomatoDroid/TomatoDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
